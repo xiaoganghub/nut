@@ -37,10 +37,10 @@ public class User {
 		this.passwd = passwd;
 	}
 
-	@Override
+/*	@Override
 	public String toString() {
 		return "User [id=" + id + ", name=" + name + ", passwd=" + passwd + "]";
-	}
+	}*/
 
 	
 }
